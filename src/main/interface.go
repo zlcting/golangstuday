@@ -66,4 +66,5 @@ func main() {
 	for _, value := range x {
 		value.SayHi()
 	}
+
 }
